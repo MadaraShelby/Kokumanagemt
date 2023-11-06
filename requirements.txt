@@ -43,3 +43,5 @@ telegraph==2.2.0
 telethon==1.31.1
 tgcrypto==1.2.5
 wikipedia==1.4.0
+python-telegram-bot==20.0a4
+openai
